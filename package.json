@@ -8,7 +8,7 @@
   },
   "author": "king",
   "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": { "registry": "https://registry.npmjs.org/" },
   "repository": {
     "type": "git",
     "url": "https://github.com/KingDoBetter/npmyun.git"
