@@ -1,0 +1,11 @@
+{
+  "name": "wxqtext",
+  "version": "2.0.0",
+  "description": "do test king",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "king",
+  "license": "ISC"
+}
